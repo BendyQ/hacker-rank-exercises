@@ -1,0 +1,14 @@
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\bin\Debug\net8.0\AppleAndOrange.exe
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\bin\Debug\net8.0\AppleAndOrange.deps.json
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\bin\Debug\net8.0\AppleAndOrange.runtimeconfig.json
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\bin\Debug\net8.0\AppleAndOrange.dll
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\bin\Debug\net8.0\AppleAndOrange.pdb
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\obj\Debug\net8.0\AppleAndOrange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\obj\Debug\net8.0\AppleAndOrange.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\obj\Debug\net8.0\AppleAndOrange.AssemblyInfo.cs
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\obj\Debug\net8.0\AppleAndOrange.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\obj\Debug\net8.0\AppleAndOrange.dll
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\obj\Debug\net8.0\refint\AppleAndOrange.dll
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\obj\Debug\net8.0\AppleAndOrange.pdb
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\obj\Debug\net8.0\AppleAndOrange.genruntimeconfig.cache
+C:\Users\adria\Desktop\HackerRank\AppleAndOrange\AppleAndOrange\obj\Debug\net8.0\ref\AppleAndOrange.dll
